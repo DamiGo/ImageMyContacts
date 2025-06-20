@@ -1,0 +1,2 @@
+rootProject.name = 'ImageMyContacts'
+include ':app'
