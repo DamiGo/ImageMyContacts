@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageMyContacts</string>
+    <string name="delete_contact">Delete contact</string>
+    <string name="confirm_delete">Delete this contact?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
